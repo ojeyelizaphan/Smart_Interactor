@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866318893988",
+    "project_id": "mems-smart-interactor",
+    "storage_bucket": "mems-smart-interactor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866318893988:android:f5bee2565d095191357731",
+        "android_client_info": {
+          "package_name": "com.example.smartinteractor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866318893988-qlbjsgga9vjos8fm17jj3dhsltcq2g7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9r2fK4zLo2G3Z-zcRD_WfBpbxP2_kCpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866318893988-qlbjsgga9vjos8fm17jj3dhsltcq2g7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
